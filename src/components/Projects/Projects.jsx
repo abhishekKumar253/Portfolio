@@ -43,7 +43,9 @@ const Projects = () => {
               imgPath={github}
               title="GitHub Like App"
               description="
-                Built GitHub-like web app with MERN stack. Utilized React.js, Tailwind CSS for frontend, Express.js, Node.js for backend, MongoDB for storage, and Passport.js for authentication. Integrated GitHub API securely with environment variables."></ProjectCard>
+                Built GitHub-like web app with MERN stack. Utilized React.js, Tailwind CSS for frontend, Express.js, Node.js for backend, MongoDB for storage, and Passport.js for authentication. Integrated GitHub API securely with environment variables."
+              ghLink="https://github.com/abhishekKumar253/mern-github-app"
+              demoLink="https://mern-github-app-cifc.onrender.com"></ProjectCard>
           </Col>
         </Row>
       </Container>
