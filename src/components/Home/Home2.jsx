@@ -45,7 +45,7 @@ const Home2 = () => {
               </i>
               &nbsp; like
               <i>
-                <b className="purple">React.js and Next.js</b>
+                <b className="purple"> React.js and Next.js</b>
               </i>
               .
             </p>
