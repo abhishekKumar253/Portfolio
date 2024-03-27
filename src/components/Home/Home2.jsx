@@ -22,7 +22,7 @@ const Home2 = () => {
               I fell in love with programming and I have at least learned
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in and love these programming languages
+              <br /> I am fluent in classics like
               <i>
                 <b className="purple"> JavaScript and Java</b>
               </i>
@@ -45,8 +45,7 @@ const Home2 = () => {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> 
-                 React.js and Next.js</b>
+                <b className="purple"> React.js and Next.js</b>
               </i>
               .
             </p>
