@@ -10,7 +10,7 @@ import {
   DiGit,
   DiJava,
 } from "react-icons/di";
-import { SiExpress, SiNextdotjs, SiTailwindcss, IconType } from "react-icons/si";
+import { SiExpress, SiNextdotjs, SiTailwindcss } from "react-icons/si";
 import {  FaHtml5 } from "react-icons/fa6";
 
 function Techstack() {
@@ -39,9 +39,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        < IconType/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <PiFileSql />
