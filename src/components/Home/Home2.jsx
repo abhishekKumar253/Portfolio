@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
@@ -24,7 +23,7 @@ const Home2 = () => {
               <br />
               <br /> I am fluent in classics like
               <i>
-                <b className="purple"> JavaScript and Java</b>
+                <b className="purple"> JavaScript and Python</b>
               </i>
               <br />
               <br />
